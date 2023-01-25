@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning js, c#
 - 🔭 I’m currently working on github
 
 <!--
